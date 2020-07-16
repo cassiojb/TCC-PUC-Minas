@@ -1,2 +1,18 @@
 # TCC-PUC-Minas
 TCC-PUC-Minas - BARBOSA, Cássio
+
+# PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
+## NÚCLEO DE EDUCAÇÃO A DISTÂNCIA
+## Pós-graduação Lato Sensu em Ciência de Dados e Big Data
+
+
+## Cássio Luís José Barbosa
+
+
+## AGRUPAMENTO DE MUNICÍPIOS PARA LEILÕES DE CONCESSÃO DE SERVIÇOS DE SANEAMENTO BÁSICO USANDO TÉCNICAS DE MACHINE LEARNING
+
+
+## Campinas-SP
+## 2020
+
+## Versão do script: 1.21.1
