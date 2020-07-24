@@ -8,7 +8,8 @@ Pós-graduação Lato Sensu em Ciência de Dados e Big Data
 
 **AGRUPAMENTO DE MUNICÍPIOS PARA LICITAÇÕES DE CONCESSÃO DE SERVIÇOS DE SANEAMENTO BÁSICO USANDO TÉCNICAS DE MACHINE LEARNING**
 
-Belo Horizonto - MG 
+Belo Horizonto - MG  
+
 **2020**
 
 **PROBLEMA PROPOSTO**  
